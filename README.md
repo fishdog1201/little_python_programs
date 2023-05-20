@@ -1,2 +1,2 @@
 # little_python_programs
-Some practice with Python
+Solve some little problems with Python
